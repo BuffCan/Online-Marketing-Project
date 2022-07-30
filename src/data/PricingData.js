@@ -2,39 +2,50 @@ export const pricingData = [
 	{
 		title: 'Basic',
 		price: '$7.99 user/month after offer period',
-		numAcc: '50-100 accounts',
-		features: ['Secure accounts', 'Best for small business', 'Easy', 'Affordable', '1GB RAM'],
+		numAcc: 'Lorem ipsum dolor sit amet, consectetur adipisicing.',
+		features: [
+			'Lorem', 
+			'Lorem', 
+			'Lorem', 
+			'Lorem', 
+			'Lorem'
+		],
 	},
 	{
 		title: 'Standard',
 		price: '$18.99 user/month after offer period',
-		numAcc: '50-500 accounts',
+		numAcc: 'Lorem ipsum dolor sit amet, consectetur adipisicing.',
 		features: [
-			'Secure accounts',
-			'Best for small business',
-			'Customizable',
-			'3GB RAM',
-			'1TB SSD',
+			'Lorem', 
+			'Lorem', 
+			'Lorem', 
+			'Lorem', 
+			'Lorem'
 		],
 	},
 	{
 		title: 'Premium',
 		price: '$32.50 user/month after offer period',
-		numAcc: '50-1000 accounts',
+		numAcc: 'Lorem ipsum dolor sit amet, consectetur adipisicing.',
 		features: [
-			'Secure accounts',
-			'Best for small business',
-			'Customizable',
-			'Easy Integration',
-			'Development Team',
-			'DNS & Domain included',
+			'Lorem', 
+			'Lorem', 
+			'Lorem', 
+			'Lorem', 
+			'Lorem'
 		],
 	},
 
 	{
 		title: 'Enterprise',
 		price: '$55.50 user/month after offer period ',
-		numAcc: '1000+ Accounts',
-		features: ['Unlimited Storage', 'Scalability', 'Free DNS & Domain'],
+		numAcc: 'Lorem ipsum dolor sit amet, consectetur adipisicing.',
+		features: [
+			'Lorem', 
+			'Lorem', 
+			'Lorem', 
+			'Lorem', 
+			'Lorem'
+		],
 	},
 ];

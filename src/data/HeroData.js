@@ -2,10 +2,10 @@ export const heroOne = {
 	reverse: true,
 	inverse: true,
 	topLine: {
-		text: 'Founded in 2012',
+		text: 'Founded in Lorem.',
 	},
-	headline: "We've been in business for 9 years",
-	description: 'We have designed and implemented the best cloud security solutions',
+	headline: "Lorem ipsum dolor sit amet, consectetur adipisicing.",
+	description: 'Lorem ipsum dolor sit amet, consectetur adipisicing.',
 	buttonLabel: 'Find More',
 	imgStart: 'start',
 	img: './assets/svg/Deal.svg',
@@ -18,9 +18,9 @@ export const heroTwo = {
 	topLine: {
 		text: 'Designed & Developed',
 	},
-	headline: 'The best practices',
-	description: 'Our clients have had the best experience working with us',
-	buttonLabel: 'View Project',
+	headline: 'The best Lorem.',
+	description: 'Lorem ipsum dolor sit amet, consectetur adipisicing.',
+	buttonLabel: 'View Projects',
 
 	linkTo: '/more',
 	imgStart: 'start',
@@ -34,10 +34,10 @@ export const heroThree = {
 	topLine: {
 		text: 'Highly reputed brand',
 	},
-	headline: 'Why us? ',
+	headline: 'Why Lorem? ',
 	description:
-		'Our 9 year experience have allowed us to use the most innovative technologies and methodologies',
-	buttonLabel: 'View Project',
+		'Lorem ipsum dolor sit amet, consectetur adipisicing.',
+	buttonLabel: 'View Projects',
 
 	linkTo: '/download',
 	imgStart: '',

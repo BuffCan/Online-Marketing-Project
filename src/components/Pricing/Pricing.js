@@ -29,7 +29,7 @@ function Pricing() {
 						color="white"
 						align="center"
 					>
-						Create, maintain and store your data with Delta.
+						Lorem ipsum dolor sit amet, consectetur adipisicing.
 					</TextWrapper>
 					<PricingContainer>
 						{pricingData.map((card, index) => (

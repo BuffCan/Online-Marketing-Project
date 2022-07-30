@@ -9,39 +9,39 @@ const iconStyle = (Icon) => <Icon size="3rem" color="#0f0f0f" />;
 
 export const featuresData = [
 	{
-		name: 'Best Security',
-		description: 'We offer the best data security to our clients, which makes us stand out',
+		name: 'Lorem, ipsum dolor.',
+		description: 'Lorem ipsum dolor sit amet, consectetur adipisicing.',
 		icon: iconStyle(BsFillShieldLockFill),
 		imgClass: 'one',
 	},
 	{
-		name: 'Ease of Use',
-		description: 'Our system is easy to use and integrate',
+		name: 'Lorem, ipsum dolor.',
+		description: 'Lorem ipsum dolor sit amet, consectetur adipisicing.',
 		icon: iconStyle(IoIosOptions),
 		imgClass: 'two',
 	},
 	{
-		name: 'Maintenance',
-		description: 'Our code is written in highest standards, which makes it highly sustainable',
+		name: 'Lorem, ipsum dolor.',
+		description: 'Lorem ipsum dolor sit amet, consectetur adipisicing.',
 		icon: iconStyle(GrHostMaintenance),
 		imgClass: 'three',
 	},
 	{
-		name: '24/7 Support',
-		description: 'Our team is available at all times in case you need us',
+		name: 'Lorem, ipsum dolor.',
+		description: 'Lorem ipsum dolor sit amet, consectetur adipisicing.',
 		icon: iconStyle(BiSupport),
 		imgClass: 'four',
 	},
 	{
-		name: 'Price',
-		description: 'We offer the highest value/cost ratio',
+		name: 'Lorem, ipsum dolor.',
+		description: 'Lorem ipsum dolor sit amet, consectetur adipisicing.',
 		icon: iconStyle(BiDollar),
 		imgClass: 'five',
 	},
 	{
-		name: 'Scalable',
+		name: 'Lorem, ipsum dolor.',
 		description:
-			'Our servers are located all over the world, therefore improving scalability and speed ',
+			'Lorem ipsum dolor sit amet, consectetur adipisicing. ',
 		icon: iconStyle(AiOutlineCloudUpload),
 		imgClass: 'six',
 	},

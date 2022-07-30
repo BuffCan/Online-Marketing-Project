@@ -23,7 +23,7 @@ function Footer() {
 					<FooterColumn id="footerLogo">
 						<FooterLogo to="/">
 							<SocialIcon src="./assets/logo.png" />
-							Delta
+							Name
 						</FooterLogo>
 						<FooterAddress>
 							69 Street, Delta Building, US Road, Los Angeles 123
@@ -53,7 +53,7 @@ function Footer() {
 						</FooterLinkItems>
 					))}
 				</FooterGrid>
-				<FooterRights>Delta © 2021</FooterRights>
+				<FooterRights>Name © 2022</FooterRights>
 			</FooterWrapper>
 		</Section>
 	);
